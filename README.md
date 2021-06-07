@@ -1,2 +1,2 @@
 # autocomplete
-My first project in Python, an application to fill out my gyms appointment form automatically
+My first project in Python, a script using Selenium to fill out my gyms appointment form automatically
